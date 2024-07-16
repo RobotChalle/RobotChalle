@@ -25,12 +25,14 @@
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+      <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+      <img src="https://img.shields.io/badge/google%20cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
