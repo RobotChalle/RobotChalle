@@ -11,11 +11,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobotChalle&theme=2077&utcOffset=9)
 
 ## 🔨 tech stack 🔨
+
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring -6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     </div>
     <!-- Database -->
@@ -55,10 +57,7 @@
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="http://qr.kakao.com/talk/AiVjn9TyVQ6GQJMdqYTnp.SV94-">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
+  ##📞 010-8940-1854
 </div>
 </div>
 
