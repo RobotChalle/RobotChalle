@@ -6,6 +6,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=RobotChalle&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobotChalle&theme=nord_dark)
 
 <!--
 **RobotChalle/RobotChalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
