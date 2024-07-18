@@ -4,11 +4,6 @@
 
 ## 👩🏻‍💻 ABOUT ME 👩🏻‍💻
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobotChalle&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobotChalle&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RobotChalle&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobotChalle&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RobotChalle&theme=2077&utcOffset=9)
 
 ## 🔨 tech stack 🔨
 
