@@ -4,6 +4,9 @@
 
 ## 👩🏻‍💻 ABOUT ME 👩🏻‍💻
 ![1719446461927 (1) (1)](https://github.com/user-attachments/assets/977de55f-379d-4d21-825d-4e1cdf901692)
+
+</div>
+
 ### 간략소개
 전자재료학 전공을 통해 반도체 공정에서의 문제 개선 과정과 기술자의 배움을 경험했습니다. 
 프로그래밍은 문제를 분석하고 해결하여 결과를 만들어내는 일이라고 생각합니다.
@@ -12,7 +15,7 @@ IT 분야에서의 넓은 시야와 성공적인 과제 수행 경험을 바탕�
 디지털 컨버전스 중심 데이터 처리 SW 개발자 양성 과정을 통해 개발자가 되기 위한 역량을 갖추고 
 팀원들과 협업을 통해 Spring boot framework를 이용한 SNS 웹사이트를 만들어 배포까지 한 경험이 있습니다.
 
-
+<div align="center">
 ## 🔨 tech stack 🔨
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
