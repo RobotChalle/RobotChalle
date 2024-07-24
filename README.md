@@ -16,6 +16,7 @@ IT 분야에서의 넓은 시야와 성공적인 과제 수행 경험을 바탕�
 팀원들과 협업을 통해 Spring boot framework를 이용한 SNS 웹사이트를 만들어 배포까지 한 경험이 있습니다.
 
 <div align="center">
+  
 ## 🔨 tech stack 🔨
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
