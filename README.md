@@ -1,8 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=안녕하세요%20이정우입니다%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 ## 👩🏻‍💻 ABOUT ME 👩🏻‍💻
-![1719446461927 (1) (1)](https://github.com/user-attachments/assets/977de55f-379d-4d21-825d-4e1cdf901692)
 </div>
 
 ### 간략소개
